@@ -1,2 +1,3 @@
 # Hello-World
 Now to begin....
+Ross H here. I am attempting to build a magnetic loop antenna controller using a Stepduino. I am new to coding so it should be a hoot!
